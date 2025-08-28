@@ -4,6 +4,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
@@ -556,6 +557,30 @@ p {
 	font-size: 1.3rem;
 }
 /* End Footer */
+
+
+
+.github-link {
+  font-size: 28px;
+  color: #1c0407;
+  margin-top: 10px;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.github-link:hover {
+  color: #4078c0; /* GitHub blue on hover */
+}
+
+
+
+
+
+
+
+
+
+
 
 /* Keyframes */
 @keyframes hamburger_puls {
